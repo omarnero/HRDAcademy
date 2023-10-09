@@ -1,0 +1,28 @@
+.loginForm{
+    background: #f1f6ec;
+    margin-top: -10px;
+}
+.login__form{
+    width: 1016px;
+    margin: 10px auto;
+    position: relative;
+    background-color: #fff;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+}
+.login__form .input{
+    display: flex;
+    gap: 4px;
+    align-items: center;
+}
+.login__form .input button {
+    background: #0079B4;
+    color: #FFF;
+    font-weight: bold;
+    border: 0px;
+    padding: 3px;
+    text-decoration: none;
+}

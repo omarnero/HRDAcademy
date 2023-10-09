@@ -1,0 +1,47 @@
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.LogoImg{
+        margin-top: 1.8rem;
+}
+
+
+.world .worlds{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    max-width: 330px;
+    gap: 10px;
+}
+.world .social{
+    display:  flex;
+    gap: 5px;
+    width: 23px;
+    height: 25px;
+}
+.world .conteries{
+    display:  flex;
+    gap: 2px;
+    width: 28px;
+    height: 18px;
+}
+.world .search{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.world .search form{
+    display: flex;
+    gap: 3px;
+}
+.search button{
+    background: #0079B4;
+    color: #FFF;
+    font-weight: bold;
+    border: 0px;
+    padding: 3px;
+    text-decoration: none;
+    cursor: pointer;
+}
