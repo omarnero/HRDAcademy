@@ -11,7 +11,7 @@ function Root() {
         <Topbar />
             <main className='container'>
                 <Logo />
-                <Navbar />
+                {/* <Navbar /> */}
 
             </main>
                 <Outlet />

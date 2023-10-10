@@ -1,15 +1,14 @@
 .footer{
-    background: #595959;
-    margin-top: -10px;
+    background:  #2e3138;
+    /* height: 35vh; */
 }
 .footerlayout {
-    width: 1016px;
-    margin: 10px auto;
+  
     position: relative;
     display: flex;
     align-items: center;
     justify-content: space-between;
-background: #333;
-color: #fff;
-padding: 0px 10px;
+
+color: #fff6;
+padding: 0px 20px;
 }
