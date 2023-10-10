@@ -5,10 +5,11 @@
   
 }
 .loginLayout{
-    width: 1016px;
+    /* width: 1016px; */
     margin: 0px auto;
     display: grid;
     grid-template-columns: 1.5fr 1.5fr ;
+    gap: 2rem;
 }
 .login__form{
    
@@ -42,7 +43,7 @@
     height: 50px;
     border-radius: 9px;
     background-color: #fff;
-    width: 100%;
+    width: 80%;
     border: 1px solid #aaa;
     margin-bottom: 1rem;
     padding: 15px;
@@ -52,7 +53,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 100%;
+    width: 80%;
     background: #005095;
     color: #fff;
     height: 50px;
